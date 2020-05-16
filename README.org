@@ -1,0 +1,9 @@
+#+TITLE: README - REve Workshop's Common Lisp projects
+* Introduction
+  Various Common Lisp based applications and packages.
+* Author
+
++ Roland Everaert
+* Copyright
+
+Copyright (c) 2020 Roland Everaert
