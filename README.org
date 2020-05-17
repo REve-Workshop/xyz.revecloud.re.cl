@@ -1,6 +1,22 @@
 #+TITLE: README - REve Workshop's Common Lisp projects
 * Introduction
   Various Common Lisp based applications and packages.
+* Structure of the repository
+** =docs/=
+   The documentation of the various projects.
+** =is/=
+   A project to provide an information system based on the lisp
+   syntax.
+** =logging/=
+   A logging package
+** =tools/=
+   Various helpers (functions, macros, ...) for my other projects.
+** =someday/=
+   A project put on hold until I got more time an more practice with
+   common lisp.
+** =tests/=
+   The tools to test all the packages and applications stored in the
+   other directories.
 * Author
 
 + Roland Everaert
